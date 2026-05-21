@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 👾 Sobre mim:
 TEC. Desenvolvedor de Sistemas (11.2025)
 
 
