@@ -2,7 +2,7 @@
 🔭 Sendo um futuro desenvolvedor de sistemas.<br>👯 Equipe com mesmos objetivos e pensamentos.<br>🤝 Aprimoramento do meu conhecimento.<br>🌱 Sobre como desenvolver sistemas.<br>💬 O que eu sei ;)<br>⚡ Curiosidades: ouço música enquanto faço trabalhos longos.
 
 
-## 🌐 Socials:
+## 🌐 Midias:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tr1n3oficial#9356) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eme_meida) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emerson-almeida-742ba7316/) 
 
 # 💻 Tech Stack:
