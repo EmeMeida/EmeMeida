@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Sendo um futuro desenvolvedor de sistemas.<br>👯 Equipe com mesmos objetivos e pensamentos.<br>🤝 Aprimoramento do meu conhecimento.<br>🌱 Sobre como desenvolver sistemas.<br>💬 O que eu sei ;)<br>⚡ Curiosidades: ouço música enquanto faço trabalhos longos.
 
 
